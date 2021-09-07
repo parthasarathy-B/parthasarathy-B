@@ -2,8 +2,8 @@ import random
 
 ME=0
 BOT=0
-a= ['rock  ','sessor','paper ']
-b= ['rock  ','sessor','paper ']
+a= ['rock  ','scissor','paper ']
+b= ['rock  ','scissor','paper ']
 ans=('')
 
 print('* Press Enter button to Continue')
