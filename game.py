@@ -169,3 +169,6 @@ while True:
     lvl()
 
 s.mainloop()
+
+
+
